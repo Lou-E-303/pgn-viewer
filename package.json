@@ -1,0 +1,14 @@
+{
+  "name": "pgn-tool",
+  "version": "1.0.0",
+  "description": "A web tool for viewing and manipulating PGN files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lichess-pgn-viewer": "^1.5.5"
+  }
+}
